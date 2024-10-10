@@ -58,8 +58,10 @@ Este proyecto es una página web interactiva que permite a los usuarios seleccio
 - **Jsonplaceholder API:** [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
 - **Imgflip Meme Generator API:** [https://api.imgflip.com/](https://api.imgflip.com/)
 
-##Imagenes
+## Imagenes
+
 ![Imagen1](https://github.com/user-attachments/assets/51725099-0e7b-4ea5-b913-34cfe5ad94a5)
+
 ![Imagen2](https://github.com/user-attachments/assets/c7d2dd74-1670-441c-9826-a9805a94dbc2)
 
 ## Contribuciones
